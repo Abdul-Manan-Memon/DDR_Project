@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction to Programming",
+    "description": "This course is designed for beginners who want to learn the foundations of programming. You will explore fundamental concepts like variables, data types, control structures, and algorithms. Gain hands-on experience by solving coding exercises and building simple programs. This courses cover a range of topics, providing valuable knowledge and skills in programming, web development, graphic design, digital marketing, and language learning. Whether you're a beginner or looking to enhance your skills, these courses offer practical insights and hands-on experience to help you succeed in your chosen field.",
+    "category": "Programming"
+  },
+  {
+    "id": "2",
+    "title": "Web Development",
+    "description": "Dive into the world of web development and master the building blocks of the web: HTML, CSS, and JavaScript. Learn to create engaging web pages, design responsive layouts, and add interactivity with JavaScript. Discover best practices and tools used in modern web development.This courses cover a range of topics, providing valuable knowledge and skills in programming, web development, graphic design, digital marketing, and language learning. Whether you're a beginner or looking to enhance your skills, these courses offer practical insights and hands-on experience to help you succeed in your chosen field.",
+    "category": "Programming"
+  },
+  {
+    "id": "3",
+    "title": "Graphic Design Fundamentals",
+    "description": "Unlock your creativity and learn the principles of graphic design. This course will teach you about color theory, typography, layout composition, and visual communication. Master design software tools and create visually appealing designs for various mediums.This courses cover a range of topics, providing valuable knowledge and skills in programming, web development, graphic design, digital marketing, and language learning. Whether you're a beginner or looking to enhance your skills, these courses offer practical insights and hands-on experience to help you succeed in your chosen field.",
+    "category": "Design"
+  },
+  {
+    "id": "4",
+    "title": "Digital Marketing",
+    "description": " In this course, you will explore the world of digital marketing and learn how to effectively promote products and services online. Discover strategies for social media marketing, search engine optimization (SEO), content marketing, and digital advertising. Gain practical skills to drive online success.This courses cover a range of topics, providing valuable knowledge and skills in programming, web development, graphic design, digital marketing, and language learning. Whether you're a beginner or looking to enhance your skills, these courses offer practical insights and hands-on experience to help you succeed in your chosen field.",
+    "category": "Business"
+  },
+  {
+    "id": "5",
+    "title": "Spanish Language Course",
+    "description": "Immerse yourself in the Spanish language with this comprehensive course. Learn essential vocabulary, grammar rules, and conversational phrases. Practice your speaking, listening, reading, and writing skills through interactive exercises and real-life scenarios.This courses cover a range of topics, providing valuable knowledge and skills in programming, web development, graphic design, digital marketing, and language learning. Whether you're a beginner or looking to enhance your skills, these courses offer practical insights and hands-on experience to help you succeed in your chosen field.",
+    "category": "Language"
+  }
+]

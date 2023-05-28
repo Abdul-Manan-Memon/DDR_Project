@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "Abdul Manan",
+      "email": "mananmemon99@gmail.com",
+      "phoneNumber": "+92 333 3635058",
+      "address": "Fast-University",
+      "photoUrl": "assets/images/Students.png"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "9876543210",
+      "address": "456 Elm St, City",
+      "photoUrl": "assets/images/student_1.png"
+    },
+    {
+      "id": "3",
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "phoneNumber": "5555555555",
+      "address": "789 Oak St, City",
+      "photoUrl": "assets/images/student_2.png"
+    }
+  ]
+  
